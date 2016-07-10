@@ -8,7 +8,10 @@
 	npm run build
 	
 ### start the application:
-	npm run start
+	npm run start (http://localhost:8080)
+	
+### change login state:
+	/static/data/tokenState.json
 	
 ### 安装依赖包:
 	npm install
@@ -17,4 +20,7 @@
 	npm run build
 	
 ### 开启应用:
-	npm run start
+	npm run start (http://localhost:8080)
+	
+### 改变登录状态:
+	/static/data/tokenState.json
