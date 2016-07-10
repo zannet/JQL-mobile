@@ -1,0 +1,23 @@
+{
+	"code":1,
+	"projects":[
+		{
+			"way":"先息期本", "time": "2016-07-03 12:18", "title": "0402-930c元先生房产抵押借款", 
+			"freshman": true, "investM": true, "investAll": false, "borrowNum": "100000.00",
+			"profitNum": "15.00", "borrowTime": 1, "progress": "65%", "remain":"35000.00", 
+			"url": "/#/content/20160600624", "status": "0"
+		},
+		{
+			"way":"先息期本", "time": "2016-07-03 12:18", "title": "0402-930c元先生房产抵押借款", 
+			"freshman": false, "investM": false, "investAll": false, "borrowNum": "150000.00",
+			"profitNum": "15.24", "borrowTime": 2, "progress": "75%", "remain":"25000.00", 
+			"url": "/#/content/20160600625", "status": "1"
+		},
+		{
+			"way":"先息期本", "time": "2016-07-03 12:18", "title": "0402-930c元先生房产抵押借款", 
+			"freshman": true, "investM": true, "investAll": false, "borrowNum": "200000.00",
+			"profitNum": "15.60", "borrowTime": 3, "progress": "85%", "remain":"15000.00", 
+			"url": "/#/content/20160600626", "status": "2"
+		}
+	]
+}

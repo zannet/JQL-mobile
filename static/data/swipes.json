@@ -1,0 +1,9 @@
+{
+	"code":1,
+	"banner":[
+		{"src": "/src/assets/11.png"},
+		{"src": "/src/assets/31.png"},
+		{"src": "/src/assets/41.png"},
+		{"src": "/src/assets/51.png"}
+	]
+}

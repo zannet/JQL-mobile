@@ -1,0 +1,13 @@
+{
+	"code":1,
+	"account": {
+		"total": "15240.27",
+		"useful": "9.67",
+		"redbag": "0.00",
+		"recieve": "15230.60",
+		"profit": "2086.88",
+		"allorder": "0",
+		"cleanorder": "0",
+		"auto": "0"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"code":1,
+	"detail": {
+		"borrowType": true, "time": "06-12 10:18", "title": "0402-930c元先生房产抵押借款", "fresh": true, "mt": true, "takeAll": false,
+		"company": "成都汇通","money": "100000.00", "profit": "15.00", "month": "1", "progress": "67%", "invested": "67000.00", 
+		"protect": "100%本息垫付","remain": "33000.00",
+		"words": "<p>1、借款人因生意周转借款18万元，出借人个人已经将款项打给借款人</p><p>2、借款人以普拉多车质押物作为还款保障</p><p>3、作为该笔借款的债权人，出借人个人已经获得借款人允许转让债权，现将债权向金桥梁投资人进行转让.若借款人逾期，出借人个人承诺先行垫付并全额本息回购</p><p>4、借款人预计借款6个月，线下风控为合理控制风险，合同签订为1个月,此标可能提前还款</p>",
+		"investors": [
+			{"name": "Fuck", "num": "50000.00", "moment": "2016-06-28 14:41:48", "usebag": true, "redbag":"100.00"},
+			{"name": "You", "num": "17000.00", "moment": "2016-06-28 14:41:52", "usebag": false, "redbag":""}
+		],
+		"repays": [
+			{"account": "0.00", "interest": "1250.00", "current": "1/1 已还款", "returnTime": "2016-06-28 15:37:16"},
+			{"account": "100000.00", "interest": "0.00", "current": "2/1 未还款", "returnTime": "2016-07-28 15:37:16"}
+		],
+		"list": [
+			{
+				"photos":["https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886125913.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886125392.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886125474.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886126983.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886126733.jpg"],
+				"type":"popup"
+			},
+			{
+				"photos":["https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886133807.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886133767.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886133283.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886133599.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886134226.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886134436.jpg"],
+				"type":"popup"
+			},
+			{
+				"photos":["https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886140954.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886140222.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886140480.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886140777.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886141418.jpg"],
+				"type":"popup"
+			},
+			{
+				"photos":["https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886147577.jpg","https://image.jql.cn/upload/images/201603/25/borrow_img_with_201603251458886147262.jpg"],
+				"type":"popup"
+			}
+		]
+	}
+}
