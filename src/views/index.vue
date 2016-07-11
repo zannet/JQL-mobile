@@ -40,7 +40,7 @@
 					</a>
 					<small class="index-small-style">投资</small>
 				</div>
-				<div class="col-25  content-padTwenty">
+				<div class="col-25 content-padTwenty">
 					<a href="javascript:;">
 						<div class="demobox"><i class="iconfont icon-live colorcfb0"></i></div>
 					</a>
@@ -89,71 +89,71 @@
 				</div>
 			</div>
 			<div class="width100 text-center" style="padding-bottom:.5rem;">
-				<a href="/#/list" class="min-font color-666" >更多项目></a>
+				<a href="/#/list" class="min-font color-666">更多项目></a>
 			</div>
 			
 			<div class="backfff">
 				<div class="row no-gutter ">
 					<div class="col-50 border-bottom border-right padding5752">
-						<a href="introduce.html">
-						<div class="row list-margin ">
-							<div class="col-60">
-								<b class="display-block  color-666 text-left">关于我们</b>
-								<p class="display-block  min-font margin10 color-999 text-left">最性感的P2P</p>
-							</div>
-							<div class="col-40">
-								<div class="ibox">
-									<img class="aboutus" src="../assets/aboutus.svg" alt=""/>
+						<a href="javascript:;">
+							<div class="row list-margin ">
+								<div class="col-60">
+									<b class="display-block  color-666 text-left">关于我们</b>
+									<p class="display-block  min-font margin10 color-999 text-left">最性感的P2P</p>
+								</div>
+								<div class="col-40">
+									<div class="ibox">
+										<img class="aboutus" src="../assets/aboutus.svg" alt=""/>
+									</div>
 								</div>
 							</div>
-						</div>
 						</a>
 					</div>
 					<div class="col-50 border-bottom  padding5752">
-					<a href="special.html">
-					<div class="row list-margin">
-						<div class="col-60">
-							<b class="display-block  color-666 text-left">安全保障</b>
-							<p class="display-block  min-font margin10 color-999 text-left">100%本息保障</p>
-						</div>
-						<div class="col-40">
-							<div class="ibox">
-								<img class="security" src="../assets/security.svg" alt=""/>
+					<a href="javascript:;">
+						<div class="row list-margin">
+							<div class="col-60">
+								<b class="display-block  color-666 text-left">安全保障</b>
+								<p class="display-block  min-font margin10 color-999 text-left">100%本息保障</p>
+							</div>
+							<div class="col-40">
+								<div class="ibox">
+									<img class="security" src="../assets/security.svg" alt=""/>
+								</div>
 							</div>
 						</div>
-					</div>
 					</a>
 				</div>
 				</div>
 				<div class="row no-gutter ">
 					<div class="col-50 border-bottom border-right padding5752">
-						<a href="articlelist.html">
-						<div class="row list-margin">
-							<div class="col-60">
-								<b class="display-block  color-666 text-left">平台公告</b>
-								<p class="display-block  min-font margin10 color-999 text-left">最新平台动态</p>
-							</div>
-							<div class="col-40">
-								<div class="ibox">
-									<img  class="notice" src="../assets/notice.svg" alt=""/>
+						<a href="javascript:;">
+							<div class="row list-margin">
+								<div class="col-60">
+									<b class="display-block  color-666 text-left">平台公告</b>
+									<p class="display-block  min-font margin10 color-999 text-left">最新平台动态</p>
+								</div>
+								<div class="col-40">
+									<div class="ibox">
+										<img class="notice" src="../assets/notice.svg" alt=""/>
+									</div>
 								</div>
 							</div>
-						</div>
 						</a>
 					</div>
-					<div class="col-50 border-bottom  padding5752">
-						<a href="detaillist.html">
-						<div class="row list-margin">
-							<div class="col-60">
-								<b class="display-block  color-666 text-left">发标预告</b>
-								<p class="display-block  min-font margin10 color-999 text-left">每日发标预告</p>
-							</div>
-							<div class="col-40">
-								<div class="ibox">
-									<img  class="announce" src="../assets/announce.svg" alt=""/>
+					<div class="col-50 border-bottom padding5752">
+						<a href="javascript:;">
+							<div class="row list-margin">
+								<div class="col-60">
+									<b class="display-block color-666 text-left">发标预告</b>
+									<p class="display-block min-font margin10 color-999 text-left">每日发标预告</p>
+								</div>
+								<div class="col-40">
+									<div class="ibox">
+										<img class="announce" src="../assets/announce.svg" alt=""/>
+									</div>
 								</div>
 							</div>
-						</div>
 						</a>
 					</div>
 				</div>

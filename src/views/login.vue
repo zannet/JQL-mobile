@@ -8,7 +8,7 @@
 				<div class="list-block list-margin content-martop10 content-boxshow ">
 					<ul>
 						<li>
-							<div class="item-content   content-padrights">
+							<div class="item-content content-padrights">
 								<div class="item-inner border-bottom">
 									<div class="item-title label color-333 font-14">账户</div>
 									<div class="item-input">
@@ -22,7 +22,7 @@
 							<div class="item-content content-padrights" >
 								<div class="item-inner ">
 									<div class="item-title label color-333 font-14">密码</div>
-									<div class="item-input" >
+									<div class="item-input">
 										<input type="password" id="password" v-model="password" placeholder="您的密码？">
 									</div>
 								</div>
@@ -82,7 +82,7 @@
 						return false;
 					}else{
 						return true;
-					};
+					}
 				}
 				
 				function testPassword() {
