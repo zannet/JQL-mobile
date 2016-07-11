@@ -2,3 +2,5 @@ static/build.js
 static/build.js.map
 node_modules
 npm-debug.log
+static/build.js
+static/build.js.map
