@@ -13,7 +13,7 @@
 				<li><div class="border-bottom"></div></li>
 				<li v-show="!isLogin"><a v-on:click.prevent href="/#/register1">注册</a></li>
 				<li v-show="!isLogin"><a v-on:click.prevent href="/#/login">登录</a></li>
-				<li v-show="isLogin"><a v-on:click.prevent href="javascript:;">用户名</a></li>
+				<li v-show="isLogin"><a v-on:click.prevent href="/#/user">用户名</a></li>
 				<li v-show="isLogin"><a v-on:click.prevent class="out" href="/#/login">退出</a></li>
 			</ul>
 		</div>

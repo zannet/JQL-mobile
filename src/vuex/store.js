@@ -37,7 +37,7 @@ const mutations = {
 			dataType: "json",
 			success: function(res){
 				if(res.code==1){
-					ajaxReturn = res.valid;
+					state.login ? ajaxReturn = res.valid : ajaxReturn = res.unvalid;
 					document.cookie = "token=" + res.content + ";expires=Session;path=/;";
 				}
 			},
