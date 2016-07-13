@@ -14,9 +14,9 @@
 	/static/data/tokenState.json
 
 ### screen shots
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/index.jpg)
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/content.jpg)
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/user.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
 	
 ### Directory structure
 <pre>
@@ -55,9 +55,9 @@
 	/static/data/tokenState.json
 
 ### 截屏
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/index.jpg)
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/content.jpg)
-	![image](https://github.com/Yunshen-Lew/SUI-VUE/blob/master/src/assets/user.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
 	
 ### 目录结构
 <pre>
