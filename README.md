@@ -13,6 +13,11 @@
 ### change login state:
 	/static/data/tokenState.json
 
+### screen shots
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/index.jpg)
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/content.jpg)
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/user.jpg)
+	
 ### Directory structure
 <pre>
 .
@@ -48,6 +53,11 @@
 	
 ### 改变登录状态:
 	/static/data/tokenState.json
+
+### 截屏
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/index.jpg)
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/content.jpg)
+	![image](https://github.com/Yunshen-Lew/SUI-VUE/tree/master/src/assets/user.jpg)
 	
 ### 目录结构
 <pre>
