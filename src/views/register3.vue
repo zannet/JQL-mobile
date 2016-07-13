@@ -48,7 +48,7 @@
 					async: false
 				});
 				console.log(this.$route.path + " step now");
-				if(_self.prevent)location.href = "/#/login";
+				if(_self.prevent)location.href = "/#/";
 			}
 		},
 		components: {
