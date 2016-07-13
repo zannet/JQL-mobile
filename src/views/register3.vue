@@ -14,8 +14,8 @@
 				<div class="min-font text-center padding1 ">您已获得<em class="colorffb">15元</em>红包，首次充值再送<em class="colorffb">10元</em>红包</div>
 			</div>
 			<div class="row padding20">
-				<div class="col-50"><a href="recharge.html" class="button button-big bgcolor-ffb button-warning  max-font" external>立即充值</a></div>
-				<div class="col-50"><a href="userCenter.html" class="button button-big  button-fill  max-font" external>进入我的账户</a></div>
+				<div class="col-50"><a href="javascript:;" class="button button-big bgcolor-ffb button-warning  max-font" external>立即充值</a></div>
+				<div class="col-50"><a href="/#/user" class="button button-big  button-fill  max-font" external>进入我的账户</a></div>
 			</div>
 		</div>
 	</div>
