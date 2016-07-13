@@ -15,8 +15,9 @@
 
 ### screen shots
 ![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
 ![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/login.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
 	
 ### Directory structure
 <pre>
@@ -56,8 +57,10 @@
 
 ### 截屏
 ![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
 ![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/login.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
+
 	
 ### 目录结构
 <pre>
