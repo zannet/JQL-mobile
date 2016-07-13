@@ -114,7 +114,7 @@
 								if(msg.code==1){
 									$.toast('登录成功');
 									_self.loginIn();
-									location.href = "/#/";
+									location.href = "/#/user";
 								}else{
 									$.toast(msg.message);
 								}

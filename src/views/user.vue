@@ -6,9 +6,9 @@
 		<div class="content">
 		
 			<div class="backfff color-333 padding5 text-center content-martop10 relative">
-				AlexanderG
+				{{account.user}}
 				<div class="vipActive vip" id="vipcheck">
-					v1						
+					v{{account.vipClass}}						
 				</div>
 			</div>
 			

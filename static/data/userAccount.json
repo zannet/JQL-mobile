@@ -1,6 +1,8 @@
 {
 	"code":1,
 	"account": {
+		"user": "AlexanderG",
+		"vipClass": "1", 
 		"total": "15240.27",
 		"useful": "9.67",
 		"redbag": "0.00",
