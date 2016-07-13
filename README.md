@@ -13,12 +13,6 @@
 ### change login state:
 	/static/data/tokenState.json
 
-### screen shots
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/login.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
-	
 ### Directory structure
 <pre>
 .
@@ -42,6 +36,10 @@
 │   └── main.js           		// Route configuration
 .
 </pre>
+
+### screen shots
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
 	
 ### 安装依赖包:
 	npm install
@@ -55,13 +53,6 @@
 ### 改变登录状态:
 	/static/data/tokenState.json
 
-### 截屏
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/content.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/login.jpg)
-![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
-
-	
 ### 目录结构
 <pre>
 .
@@ -85,3 +76,7 @@
 │   └── main.js           		// 路由配置
 .
 </pre>
+
+### 截屏
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/index.jpg)
+![image](https://raw.githubusercontent.com/Yunshan-Lew/SUI-VUE/master/src/assets/user.jpg)
