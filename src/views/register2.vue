@@ -87,7 +87,7 @@
 		name: "register2",
 		data(){
 			return {
-				prevent: false,
+				prevent: true,
 				username: '',
 				regPassword: '',
 				obtain: '0',
@@ -205,6 +205,19 @@
 						location.href = "/#/register3";
 					}
 				});
+			},
+			intercept(){
+				var _self = this;
+				$.ajax({
+					url: "/static/data/preventUrl.json",
+					dataType: "json",
+					success: function(res){
+						if(res.code==1)_self.prevent = res.prevent;
+					},
+					async: false
+				});
+				console.log(this.$route.path + " step now");
+				if(_self.prevent)location.href = "/#/";
 			}
 		},
 		components: {
@@ -220,7 +233,7 @@
 		route: {
 			data(){
 				console.log(this.$route.path + ' step now');
-				if(this.prevent)location.href = "/#/login";
+				this.intercept();
 				this.username = '';
 				this.regPassword = '';
 				this.obtain = '0';
