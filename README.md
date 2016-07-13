@@ -1,4 +1,4 @@
-# SUI-VUE
+# JQL-mobile
 ## A single page application created by SUI and vue.
 
 ### install node packages:
