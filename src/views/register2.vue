@@ -83,6 +83,8 @@
 	import panel from "../components/panel.vue"
 	import store from "../vuex/store.js"
 	import getters from "../vuex/getters.js"
+	import actions from "../vuex/actions.js"
+	
 	export default {
 		name: "register2",
 		data(){
@@ -96,6 +98,7 @@
 		},
 		methods: {
 			eventBind(){
+				var _self = this;
 				var _csrf = $('meta[name="csrf-token"]').attr("content");
 				
 				var name_exp = /^[\u4E00-\u9FA5A-Za-z0-9_]+$/;
@@ -195,6 +198,7 @@
 							dataType:'json',
 							success:function(msg){
 								if(msg.code==1){
+									_self.loginIn();
 									location.href = "/#/register3";
 								}else{
 									$.toast(msg.message);
@@ -202,6 +206,7 @@
 							},
 							cache:false
 						});*/
+						_self.loginIn();
 						location.href = "/#/register3";
 					}
 				});
@@ -228,6 +233,9 @@
 		vuex: {
 			getters: {
 				isLogin: getters.loginStatus
+			},
+			actions: {
+				loginIn: actions.loginIn
 			}
 		},
 		route: {
