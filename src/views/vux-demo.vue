@@ -24,6 +24,9 @@
 				</p>
 			</dialog>
 			<div class="arrow"></div>
+			<group>
+				<calendar :value.sync="value" title="Date Picker"></calendar>
+			</group>
 		</div>
 	</div>
 	<panel></panel>
@@ -37,6 +40,7 @@
 	import xButton from 'vux-ui/x-button'
 	import dialog from 'vux-ui/dialog'
 	import circle from 'vux-ui/circle'
+	import calendar from 'vux-ui/calendar'
 	import store from "../vuex/store.js"
 	import getters from "../vuex/getters.js"
 	export default {
@@ -62,7 +66,8 @@
 			cell,
 			dialog,
 			xButton,
-			circle
+			circle,
+			calendar
 		},
 		store: store,
 		vuex: {
