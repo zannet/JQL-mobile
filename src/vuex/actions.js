@@ -13,8 +13,12 @@ const loginIn = function({ dispatch, state }){
 	dispatch('LOGININ')
 }
 
+const loginCheck = function({ dispatch, state }){
+	dispatch('LOGINCHECK')
+}
+
 const tokenState = function({ dispatch, state }){
 	dispatch('TOKEN')
 }
 
-export default {incrementCounter, loginOut, loginIn, tokenState}
+export default {incrementCounter, loginOut, loginIn, loginCheck, tokenState}

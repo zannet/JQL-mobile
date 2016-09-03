@@ -18,10 +18,25 @@ const mutations = {
 		state.count = state.count + amount
 	},
 	LOGINOUT(state){
-		state.login = false
+		state.login = false;
+		var ex = new Date();
+		ex.setTime(new Date().getTime() + 1.44E7);
+		document.cookie = "login=false;expires=" + ex + ";path=/;";
 	},
 	LOGININ(state){
-		state.login = true
+		state.login = true;
+		var ex = new Date();
+		ex.setTime(new Date().getTime() + 1.44E7);
+		document.cookie = "login=true;expires=" + ex + ";path=/;";
+	},
+	LOGINCHECK(state){
+		var login = false;
+		var cookies = document.cookie.split(';');
+		for(var i=0; i<cookies.length; i++){
+			if(cookies[i].split('=')[0].replace(/\s/g,'')=='login')break;
+		}
+		if(i < cookies.length)login = cookies[i].split('=')[1]=="true" ? true : false;
+		state.login = login;
 	},
 	TOKEN(state){
 		var ajaxReturn = false;
